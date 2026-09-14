@@ -1,16 +1,41 @@
-entra-id-user-group-management/
-├── README.md                          # This portfolio document
-├── screenshots/ <img width="1710" height="1112" alt="Screenshot 2026-09-14 at 14 11 55" src="https://github.com/user-attachments/assets/0c8c195e-4139-42a9-9fcd-2dca27cd8a02" />
-<img width="1710" height="1112" alt="Screenshot 2026-09-14 at 14 24 24" src="https://github.com/user-attachments/assets/3cb8ab9d-e11a-4203-aab2-40a46907d78b" />
-<img width="1710" height="1112" alt="Screenshot 2026-09-14 at 14 27 33" src="https://github.com/user-attachments/assets/cc8c5d19-d458-4bc9-9824-226ded35c495" />
+# Microsoft Entra ID - User & Group Management Portfolio
 
-│   ├── 01-create-user.png             # User creation screenshot
-│   ├── 02-new-group.png               # Group creation screenshot
-│   ├── 03-add-members.png             # Member selection screenshot
-│   └── 04-group-members.png           # Group membership verification
-├── documentation/
-│   ├── user-provisioning-guide.md     # Step-by-step user creation guide
-│   ├── group-management-guide.md      # Step-by-step group creation guide
-│   └── rbac-best-practices.md         # Best practices for access control
-└── scripts/                           # (Optional) PowerShell automation
-    └── bulk-user-creation.ps1         # Script for bulk user provisioning
+## 📌 Project Overview
+This project demonstrates hands-on experience with Microsoft Entra ID (Azure AD), including user provisioning, security group creation, and role-based access control (RBAC).
+
+## 🎯 Business Scenario
+A growing organization needed to onboard new compliance team members and manage their access securely.
+
+## 🛠️ Tasks Completed
+
+| Task | Description | Status |
+|------|-------------|--------|
+| 1 | Created new user account (Sarah Doe - Compliance Analyst) | ✅ Complete |
+| 2 | Created security group (Test-Static-Group) | ✅ Complete |
+| 3 | Added 2 users to security group (James Doe, John Dow) | ✅ Complete |
+
+## 📸 Screenshots
+
+### User Creation
+![User Creation](<img width="4047" height="2447" alt="User" src="https://github.com/user-attachments/assets/e13cf40c-326f-45d1-9796-e774eff9ce57" />
+)
+
+### Group Creation
+![Group Creation](<img width="7250" height="2090" alt="Members" src="https://github.com/user-attachments/assets/73cb66e3-8b00-4674-8b9a-d51f18d51438" />
+)
+
+### Adding Members
+![Adding Members](<img width="6077" height="4001" alt="Members1" src="https://github.com/user-attachments/assets/16bba2f2-2177-48bb-b72a-f084d8333735" />
+)
+
+### Group Membership Verified
+![Group Members](screenshots/04-group-members.png)
+
+## 🧠 Skills Demonstrated
+- User Provisioning
+- Identity Management
+- Group Management
+- Access Control (RBAC)
+- Microsoft Entra ID Administration
+
+## 📁 Repository Structure
